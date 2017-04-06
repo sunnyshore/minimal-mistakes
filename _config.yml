@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :"YzOgZOwIVludLOUsrWYt5dFPwzzQotItKSOAsDIkK2k"
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Shao"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I am an z-turning person."
+  location         : "China"
   email            :
   uri              :
   bitbucket        :
